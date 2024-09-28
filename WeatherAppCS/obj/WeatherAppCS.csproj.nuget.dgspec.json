@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\kamer\\WeatherApplication\\WeatherAppCS\\WeatherAppCS.csproj": {}
+    "C:\\Users\\kamer\\WeatherApplication\\WeatherAppCS\\WeatherAppCS.csproj": {}
   },
   "projects": {
-    "c:\\Users\\kamer\\WeatherApplication\\WeatherAppCS\\WeatherAppCS.csproj": {
+    "C:\\Users\\kamer\\WeatherApplication\\WeatherAppCS\\WeatherAppCS.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\kamer\\WeatherApplication\\WeatherAppCS\\WeatherAppCS.csproj",
+        "projectUniqueName": "C:\\Users\\kamer\\WeatherApplication\\WeatherAppCS\\WeatherAppCS.csproj",
         "projectName": "WeatherAppCS",
-        "projectPath": "c:\\Users\\kamer\\WeatherApplication\\WeatherAppCS\\WeatherAppCS.csproj",
+        "projectPath": "C:\\Users\\kamer\\WeatherApplication\\WeatherAppCS\\WeatherAppCS.csproj",
         "packagesPath": "C:\\Users\\kamer\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\kamer\\WeatherApplication\\WeatherAppCS\\obj\\",
+        "outputPath": "C:\\Users\\kamer\\WeatherApplication\\WeatherAppCS\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\kamer\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "srz0RkUtmRU=",
+  "dgSpecHash": "ktlQwlzWnLM=",
   "success": true,
-  "projectFilePath": "c:\\Users\\kamer\\WeatherApplication\\WeatherAppCS\\WeatherAppCS.csproj",
+  "projectFilePath": "C:\\Users\\kamer\\WeatherApplication\\WeatherAppCS\\WeatherAppCS.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\kamer\\.nuget\\packages\\flurl\\4.0.0\\flurl.4.0.0.nupkg.sha512",
     "C:\\Users\\kamer\\.nuget\\packages\\flurl.http\\4.0.2\\flurl.http.4.0.2.nupkg.sha512"
